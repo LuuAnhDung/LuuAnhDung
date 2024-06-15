@@ -1,3 +1,4 @@
+<!--
 <img align="right" width="64" src="https://github.com/LuuAnhDung.png" />
 
 <h2 align="center">Hi 👋, I'm Luu Anh Dung</h2>
@@ -6,7 +7,7 @@
 
 <br />
 ## 📫 How to reach me:
-
+<!--
 <p align="center">
   <a href="https://linkedin.com/in/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
@@ -51,6 +52,7 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
 </p>
 -->
+<!--
 <table style="width:100%;">
   <tr>
     <td>
@@ -60,3 +62,4 @@
     </td>
   </tr>
 </table>
+-->
